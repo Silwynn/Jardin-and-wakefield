@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/styles.css">
+    <title>CozyCup Café</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f5f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 50px;
+        }
+
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        li {
+            margin-right: 20px;
+        }
+
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+            background-color: #ffcc00;
+            color: #333;
+        }
+
+        .hero h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+
+        .hero p {
+            font-size: 1.5em;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+
+        .cta-button:hover {
+            background-color: #555;
+        }
+
+        .gallery {
+            display: flex;
+            overflow-x: auto;
+            padding: 20px;
+        }
+
+        .gallery img {
+            height: 150px;
+            margin-right: 10px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .about, .team, .mission {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .about h2, .team h2, .mission h2 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        .about p, .team p, .mission p {
+            font-size: 1.2em;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .team img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin: 10px;
+        }
+
+        .team-member {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-bottom: 20px;
+        }
+
+        .team-member p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="img/logo1.png" alt="CozyCup Café Logo">
+            </div>
+            <ul>
+                <li><a href="index.html#home">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="index.html#about">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h1>Welcome to CozyCup Café</h1>
+        <p>Sip, Relax, Repeat.</p>
+        <p>Discover Your Perfect Brew</p>
+        <a href="menu.html" class="cta-button">Explore Menu</a>
+    </section>
+
+
+
+    <section id="about" class="about">
+        <h2>Café Story</h2>
+        <p>Our Story
+            
+           The CozyCup Cafe every cup of coffee tells a story, and every corner of our café is a chapter in that narrative. Our journey began with a simple dream: to create a space where exceptional coffee and artistry come together in perfect harmony. 
+            
+            From the outset, we envisioned more than just a café; we envisioned a sanctuary of style and comfort. Our founders, inspired by a passion for both quality and design, meticulously crafted an environment that is as beautiful as it is welcoming. The sleek lines, warm tones, and curated artwork create a setting where every detail contributes to an inviting ambiance.
+            
+            As you step through our doors, you’re not just entering a café; you’re entering a thoughtfully designed space where every element—from the artisanal pastries to the custom furnishings—has been chosen to enhance your experience. Our team is dedicated to bringing this vision to life, serving not only coffee but also a visual and sensory feast.
+            
+            Sustainability and community are at the heart of our story. We proudly support local producers and implement eco-friendly practices to ensure that our commitment to the environment is as strong as our dedication to quality.
+            
+            Our café is more than a place to enjoy a cup of coffee; it’s a celebration of aesthetics and connection, a place where every visit feels like coming home. Join us as we continue to blend exceptional flavor with thoughtful design, creating a haven where beauty and comfort meet.
+            </p>
+        <p>The café has grown into a cultural hub, hosting events like “Open Mic Nights” and “Artisan Markets,” which celebrate local talent and foster community spirit.</p>
+    </section>
+
+    <section id="team" class="team">
+        <h2>Our Team</h2>
+        <div class="team-member">
+            <img src="img/mark.jfif" alt="Mark">
+            <p><strong>Mark:</strong> A seasoned barista with a deep passion for coffee. Mia’s expertise in crafting the perfect espresso and dedication to quality are central to the café’s success.</p>
+        </div>
+        <div class="team-member">
+            <img src="img/drew.jfif" alt="Drew">
+            <p><strong>Drew:</strong> The creative chef behind the café’s delightful pastries. Lucas’s flair for innovation and daily pastry creations are a blend of classic favorites and new surprises.</p>
+        </div>
+    </section>
+
+    <section id="mission" class="mission">
+        <h2>Café Mission</h2>
+        <p><strong>Mission:</strong> At CozyCup, our mission is to create a warm and welcoming space where every guest feels like family.
+             We are dedicated to serving exceptional coffee and artisanal treats crafted with care and quality ingredients. 
+             Through sustainable practices and a commitment to community, 
+            we aim to enrich the lives of our patrons and support local producers.</p>
+        <p><strong>Vision:</strong> Our vision is to be a beloved gathering place that fosters connection, creativity, and comfort. 
+            We aspire to set the standard for excellence in the café industry by blending innovative flavors with time-honored traditions.
+             As we grow, we envision expanding our reach while maintaining our commitment to sustainability and community engagement,
+             making a positive impact both locally and beyond.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 CozyCup Café. All rights reserved.</p>
+    </footer>
+
+    <div class="social-icons">
+        <a href="https://www.facebook.com/drew.wakefield.10" target="_blank" rel="noopener noreferrer">
+            <i class="fa-brands fa-facebook"></i>
+        </a>
+        <i class="fa-solid fa-envelope"></i>
+        <i class="fa-brands fa-tiktok"></i>
+        <i class="fa-brands fa-instagram"></i>
+    </div>
+
+</body>
+
+</html>
