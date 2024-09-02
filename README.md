@@ -29,12 +29,12 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 
 ---
 
-![About Us](about us.png)
+![About Us](aboutus.png)
 > Highlights our story, mission, and what makes Coffee Break special.
 
 ---
 
-![Contant Information](contact_info.png)
+![Contant Information](contact.png)
 > Provides our address, phone number, and email for easy contact.
 
 ---
