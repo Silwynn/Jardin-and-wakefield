@@ -9,7 +9,7 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 ## Features
 -Homepage: We showcase our best-selling coffee drinks and pastries with real product images that you would die for.
 
--Menu Page: You can explore all our offerings in detail, including descriptions, prices, and customization options.
+-Menu Page: You can explore all our offerings in detail, including descriptions and prices.
 
 -About Page: Learn the story behind it all, follow our journey on how Cozy Cup Cafe came to be
 
@@ -19,48 +19,48 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 
 ---
 ## Screen Captures
-![Home](image/homepage.png)
+![Home](https://github.com/user-attachments/assets/86cb0edc-3325-4962-a1ca-5747fdcc7c65)
 > Showcases our best-selling coffee drinks and pastries with vibrant images and descriptions.
 
 ---
 
-![Menu](img/menu.png)
+![Menu](menu.png)
 > Displays all our offerings, including details, prices, and customization options.
 
 ---
 
-![About Us](img/about_us.png)
+![About Us](about us.png)
 > Highlights our story, mission, and what makes Coffee Break special.
 
 ---
 
-![Contant Information](img/contact_info.png)
+![Contant Information](contact_info.png)
 > Provides our address, phone number, and email for easy contact.
 
 ---
 
 ## About the Authors
-<img src="img/jhonny.png" width="150" style="border-radius: 50%;">
+<img src="img/mark.png" width="150" style="border-radius: 50%;">
 
-### **Jhonny Mahinay**
+### **Mark Silwyn D. Jardin**
 
-> **jhonnymahinay3@gmail.com**
-
-**Social Links**
-
-> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/jhonny.hinayam/)
-
-> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/anxiety16)
-
-
-<img src="img/dindo.png" width="150" style="border-radius: 50%;">
-
-### **Dindo Agustin**
-
-> **202280012@psu.palawan.edu.ph**
+> *202280233@psu.palawan.edu.ph*@gmail.com**
 
 **Social Links**
 
-> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/dindo.agustin.142/)
+> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/serious.black.90834?mibextid=ZbWKwl)
 
-> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/0go40410tng2)
+> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/Silwynn)
+
+
+<img src="img/drew.png" width="150" style="border-radius: 50%;">
+
+### **Drew Jhone M. Wakefield**
+
+> **202280185@psu.palawan.edu.ph**
+
+**Social Links**
+
+> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/drew.wakefield/)
+
+> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/Curiouscat21)
