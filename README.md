@@ -29,7 +29,7 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 
 ---
 
-![About Us](aboutus.png)
+![About Us](about_us.png)
 > Highlights our story, mission, and what makes Coffee Break special.
 
 ---
@@ -40,7 +40,7 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 ---
 
 ## About the Authors
-<img src="img/mark.png" width="150" style="border-radius: 50%;">
+<img src="mark.png" width="150" style="border-radius: 50%;">
 
 ### **Mark Silwyn D. Jardin**
 
@@ -48,12 +48,12 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 
 **Social Links**
 
-> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/serious.black.90834?mibextid=ZbWKwl)
+> [![Facebook Account]<img src="facebook.png" width="150"(Facebook Account)](https://www.facebook.com/serious.black.90834?mibextid=ZbWKwl)
 
-> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/Silwynn)
+> [![Github Account]<img src="facebook.png" width="150"(Facebook Account)](https://github.com/Silwynn)
 
 
-<img src="img/drew.png" width="150" style="border-radius: 50%;">
+<img src="drew.png" width="150" style="border-radius: 50%;">
 
 ### **Drew Jhone M. Wakefield**
 
@@ -61,6 +61,6 @@ Just browse our menu. Take a break and indulge in delicious flavors from  Cozy C
 
 **Social Links**
 
-> [![Facebook Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Facebook_white.png 'Facebook Account')](https://www.facebook.com/drew.wakefield/)
+> [![Facebook Account]<img src="facebook.png" width="150"(Facebook Account)](https://www.facebook.com/drew.wakefield.10)
 
-> [![Github Account](https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png 'Github Account')](https://github.com/Curiouscat21)
+> [![Github Account]<img src="facebook.png" width="150"(Facebook Account)](https://github.com/Curiouscat21)
